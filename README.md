@@ -14,6 +14,11 @@ Training a second model using XGBoost for improved performance
 Evaluating models using accuracy, recall, and ROC-AUC
 Adjusting the decision threshold to better detect risky clients
 
+Data
+
+The dataset contains financial and demographic information about clients, such as age, credit amount, duration, and employment status.
+https://www.kaggle.com/datasets/varunchawla30/german-credit-data
+
 Models
 
 Logistic Regression was used as a baseline model. It performed well, especially in detecting risky clients.
